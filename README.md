@@ -9,4 +9,5 @@
 <p>The savory and hot flavors and just so fufilling. Chinese comfort food for every single occassion. I crave it almost every single day.</p>
   <br>
   <h2>TOM YUM KAI</h2>
+  <img src="https://asianinspirations.com.au/wp-content/uploads/2019/05/R02313_Tom_Yum_with_Chicken.jpg"/>
   <p>The sour spicy after tatse is so amazing. The mushrooms, tomatoes, and chicken are bathed in heaven's soup. <br> PRO TIP: Eat it with rice , add some peanut sauce, and add chili sauce. WOW!</p>

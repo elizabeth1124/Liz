@@ -1,5 +1,6 @@
+#MY FAVORITE FOODS
 <body>
-  <h1>BEST FOODS EVER</h1>
+  <h1><strong>BEST FOODS EVER</strong></h1>
   <h2>HALO HALO</h2>
   <img src="https://t4.ftcdn.net/jpg/05/99/52/13/360_F_599521307_HQuhEn8BtpyT9arIradaz5xYkgmjSAo9.jpg"/>
 <p>The sweet taste of jellies, ube, leche flan, and condensed milk over ice is a summer treat worth every penny. I would eat it anyday, anytime, anywhere. It's just too good.</p>

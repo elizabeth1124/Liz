@@ -20,4 +20,4 @@
   <h2>ICE CREAM</h2>
   <img src="https://t4.ftcdn.net/jpg/01/72/79/35/360_F_172793547_85JMqGBFFnIJYhR8SHocrak0iie0pVFn.jpg"/>
   <p>THE BEST DESERT EVER. <br> Argue with a wall. It goes with anything and evry occassion. Waffles, Pancakes, Cakes, Pies, Brownies, Cookes and more.
-    You name it and it is so much better with ice cream. <br> PRO TIP try any and evry desert with ice cream. It's a life changer for real.</p>
+    You name it and it is so much better with ice cream. <br> PRO TIP: Try any and every desert with ice cream. It's a life changer for real.</p>

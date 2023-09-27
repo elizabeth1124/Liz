@@ -16,4 +16,8 @@
   <h2>SUSHI</h2>
   <img src="https://www.tastingtable.com/img/gallery/x-tuna-terms-you-need-to-know-when-ordering-at-a-sushi-restaurant/intro-1677015365.jpg"/>
   <p>The umami from the fish to the sweet vinagered rice, creates a perfect balance of slightly salty and slightly sweet. <br> 
-    CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spciy lovers.</body>p> 
+    CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spciy lovers.</p> 
+  <h2>ICE CREAM</h2>
+  <img src="https://t4.ftcdn.net/jpg/01/72/79/35/360_F_172793547_85JMqGBFFnIJYhR8SHocrak0iie0pVFn.jpg"/>
+  <p>THE BEST DESERT EVER. Argue with a wall. It goes with anything and evry occassion. Waffles, Pancakes, Cakes, Pies, Brownies, Cookes and more.<br>
+    You name it and it is so much better  with ice cream. <br> PRO TIP try any and evry desert with ice cream. It's a life changer for real.</p>

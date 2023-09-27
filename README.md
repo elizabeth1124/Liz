@@ -23,8 +23,8 @@
   <a href="https://www.justonecookbook.com/authentic-best-sushi-recipes/" target="_blank">SUSHI GUIDE</a>
   <br>
   <h2>POKE<h2>
-    <img src="https://media.istockphoto.com/id/1034576382/photo/poke-bowl.jpg?s=612x612&w=0&k=20&c=Ah3cUp_wQzWVRkhqSPK1j6GheZeeJS8ECpDPNNPcRGk="/>
-    <p>It's just like decontructed sushi, but it's so much more. For people who love sauces and more toppings that can't fit in a sushi roll, poke is just for you.</p>
+  <img src="https://media.istockphoto.com/id/1034576382/photo/poke-bowl.jpg?s=612x612&w=0&k=20&c=Ah3cUp_wQzWVRkhqSPK1j6GheZeeJS8ECpDPNNPcRGk="/>
+   <p>It's just like elevated deconstructed sushi. If you love sauces and more toppings that can't fit in a sushi roll. This is just the thing for you.</p>
     <a href="https://www.yelp.com/search?find_desc=Poke&find_loc=Cerritos%2C+CA+90703" target="_blank">TOP POKE PLACES NEAR CERRITOS</a>
 <br>
   <h2>ICE CREAM</h2>

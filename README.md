@@ -24,7 +24,7 @@
   <br>
   <h2>POKE<h2>
   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fpoke-bowl-gm1034576382-276992345&psig=AOvVaw2dI1bGNsqapXluURUj2QnS&ust=1695938118171000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCMCLqf3jy4EDFQAAAAAdAAAAABAE"/>
-  <p>It's like deconstructed sushi, but has so much more to offer. If you love suaces and a lot more topping, this is the just the thing for you.</p>
+  <p>It's like deconstructed sushi, but has so much more to offer. If you love sauces and a lot of toppings, this is the just the thing for you.</p>
     <a href="https://www.yelp.com/search?find_desc=Poke&find_loc=Cerritos%2C+CA+90703" target="_blank">TOP POKE PLACES NEAR CERRITOS</a>
 <br>
   <h2>ICE CREAM</h2>

@@ -26,7 +26,7 @@
     <img src="https://media.istockphoto.com/id/1034576382/photo/poke-bowl.jpg?s=612x612&w=0&k=20&c=Ah3cUp_wQzWVRkhqSPK1j6GheZeeJS8ECpDPNNPcRGk="/>
     <p>It's just like decontructed sushi, but it's so much more. For people who love sauces and more toppings that can't fit in a sushi roll, poke is just for you.</p>
     <a href="https://www.yelp.com/search?find_desc=Poke&find_loc=Cerritos%2C+CA+90703" target="_blank">TOP POKE PLACES NEAR CERRITOS</a>
-
+<br>
   <h2>ICE CREAM</h2>
   <img src="https://t4.ftcdn.net/jpg/01/72/79/35/360_F_172793547_85JMqGBFFnIJYhR8SHocrak0iie0pVFn.jpg"/>
   <p>THE BEST DESERT EVER. <br> Argue with a wall. It goes with anything and every occassion. Waffles, Pancakes, Cakes, Pies, Brownies, Cookies and more. You name it and it is so much better with ice cream. <br> PRO TIP: Try any and every desert with ice cream. It's a life changer for real.</p>

@@ -1,4 +1,3 @@
-#MY FAVORITE FOODS
 <body>
   <h1><strong>BEST FOODS EVER</strong></h1>
   <h2>HALO HALO</h2>
@@ -19,8 +18,8 @@
   <br>
   <h2>SUSHI</h2>
   <img src="https://media.istockphoto.com/id/1053854126/photo/all-you-can-eat-sushi.jpg?s=612x612&w=0&k=20&c=qqPJBYcxR0fgmzIFj_k2V6Mbo12hBBCucs1i5HcGYA0="/>
-  <p>The umami from the fish to the sweet vinagered rice, creates a perfect balance of slightly salty and slightly sweet. <br> 
-    CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spicy lovers.</p> 
+  <p>The umami from the fish to the sweet vinagered rice, creates a perfect balance of slightly salty and slightly sweet. 
+    <br>CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spicy lovers.</p> 
   <a href="https://www.justonecookbook.com/authentic-best-sushi-recipes/" target="_blank">SUSHI GUIDE</a>
   <br>
   <h2>ICE CREAM</h2>

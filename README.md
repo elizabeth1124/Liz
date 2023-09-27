@@ -10,8 +10,10 @@
   <br>
   <h2>TOM YUM GAI</h2>
   <img src="https://asianinspirations.com.au/wp-content/uploads/2019/05/R02313_Tom_Yum_with_Chicken.jpg"/>
-  <p>The sour spicy after taste is so amazing. The mushrooms, tomatoes, and chicken are bathed in heaven's soup. <br> PRO TIP: Eat it with rice , add some peanut sauce, and add chili sauce. WOW!</p>
+  <p>The sour spicy after taste is so amazing. The mushrooms, tomatoes, and chicken are bathed in heaven's soup. <br> 
+    PRO TIP: Eat it with rice , add some peanut sauce, and add chili sauce. WOW!</p>
   <br>
   <h2>SUSHI</h2>
-  <img src="https://www.tastingtable.com/img/gallery/x-tuna-terms-you-need-to-know-when-ordering-at-a-sushi-restaurant/intro-1677015365.jpg"
-  <p>The umami from the fish to the sweet vinagered rice, creates a perfect balance of slightly salty and slightly sweet. <br> CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spciy lovers.</body>p> 
+  <img src="https://www.tastingtable.com/img/gallery/x-tuna-terms-you-need-to-know-when-ordering-at-a-sushi-restaurant/intro-1677015365.jpg"/>
+  <p>The umami from the fish to the sweet vinagered rice, creates a perfect balance of slightly salty and slightly sweet. <br> 
+    CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spciy lovers.</body>p> 

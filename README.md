@@ -8,6 +8,7 @@
   <h2>HOT AND SOUR SOUP</h2>
   <img src="https://media.istockphoto.com/id/488648730/sv/foto/hot-and-sour-soup.jpg?s=612x612&w=0&k=20&c=bXh95JUcRX1gqL6dufdgLyoOjRhGjifVCFuwLiJZ670="/>
 <p>The savory and hot flavors and just so fufilling. Chinese comfort food for every single occassion. I crave it almost every single day.</p>
+  <a href="https://www.gimmesomeoven.com/hot-and-sour-soup-recipe/" target="_blank">EASY 20 MINUTE RECIPE</a>
   <br>
   <h2>TOM YUM SOUP</h2>
   <img src="https://media.istockphoto.com/id/995757154/photo/hot-and-sour-soup-traditional-food-in-thailand-contains-chili-lime-ginger-galangal-lemongrass.jpg?s=612x612&w=0&k=20&c=R5oQ3wYdQbyUacrXrEWunjDdgkxsiaFfSDhurKGldW4="/>
@@ -20,5 +21,5 @@
     CONTROVERSIAL TIP: Use sriracha instead of soy sauce for spciy lovers.</p> 
   <h2>ICE CREAM</h2>
   <img src="https://t4.ftcdn.net/jpg/01/72/79/35/360_F_172793547_85JMqGBFFnIJYhR8SHocrak0iie0pVFn.jpg"/>
-  <p>THE BEST DESERT EVER. <br> Argue with a wall. It goes with anything and every occassion. Waffles, Pancakes, Cakes, Pies, Brownies, Cookes and more.
+  <p>THE BEST DESERT EVER. <br> Argue with a wall. It goes with anything and every occassion. Waffles, Pancakes, Cakes, Pies, Brownies, Cookies and more.
     You name it and it is so much better with ice cream. <br> PRO TIP: Try any and every desert with ice cream. It's a life changer for real.</p>
